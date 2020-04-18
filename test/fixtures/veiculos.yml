@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cor: MyString
+  modelo: MyString
+  placa: MyString
+  autorizado: false
+  data_expedicao_autorizacao: 2019-11-23
+  data_expira_autorizacao: 2019-11-23
+  funcionario: MyString
+
+two:
+  cor: MyString
+  modelo: MyString
+  placa: MyString
+  autorizado: false
+  data_expedicao_autorizacao: 2019-11-23
+  data_expira_autorizacao: 2019-11-23
+  funcionario: MyString
